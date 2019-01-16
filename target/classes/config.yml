@@ -15,9 +15,9 @@ on-first-join:
     smoke-effect:
       enabled: true
     launch-firework:
-      enabled: false
+      enabled: true
   first-join-kit:
-    enabled: true
+    enabled: false
     items:
     - wood_sword
     - wood_pickaxe
